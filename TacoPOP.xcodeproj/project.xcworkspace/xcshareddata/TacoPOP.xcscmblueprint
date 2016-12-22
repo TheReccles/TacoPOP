@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5637028A36AF36979BF3CE10CEF12BED86C8F053",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CBA8FACF06874C2471AFDCCA1565F511AB4ED2C7" : 9223372036854775807,
+    "5637028A36AF36979BF3CE10CEF12BED86C8F053" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4CA4048B-2AD7-4422-AC3E-06A3CBD5E61F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CBA8FACF06874C2471AFDCCA1565F511AB4ED2C7" : "TacoPOP\/TacoPOP\/",
+    "5637028A36AF36979BF3CE10CEF12BED86C8F053" : "TacoPOP\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TacoPOP",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TacoPOP.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/TheReccles\/TacoPOP.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5637028A36AF36979BF3CE10CEF12BED86C8F053"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/TheReccles\/TacoPOP.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CBA8FACF06874C2471AFDCCA1565F511AB4ED2C7"
+    }
+  ]
+}
